@@ -4,13 +4,14 @@
 
 ##About##
 
+This repository solves the original inner array issue from the forked repository.
 This module provides a way to copy properties from one object to another based
 on a separate object which defines how the properties should be mapped.
 
 ##Installation##
 
 ```shell
-$ npm install --save object-mapper
+$ npm install --save js-object-transform
 ```
 
 ##Usage##

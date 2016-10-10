@@ -1,11 +1,11 @@
 {
-  "author": "Dan VerWeire <dverweire@gmail.com>",
+  "author": "Abhisek <abhisekpaul@gmail.com>",
   "name": "object-mapper",
-  "description": "Copy properties from one object to another.",
-  "version": "3.0.1",
+  "description": "Map properties from one object to another.",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wankdanker/node-object-mapper.git"
+    "url": "git://github.com/abhisekpaul/js-object-transform.git"
   },
   "scripts": {
     "test": "node test/test.js"
@@ -21,17 +21,8 @@
   },
   "contributors": [
     {
-      "name": "Dan VerWeire",
-      "email": "dverweire@gmail.com"
-    },
-    {
-      "name": "rafakato"
-    },
-    {
-      "name": "irnc"
-    },
-    {
-      "name": "scotthogan"
+      "name": "Abhisek Paul",
+      "email": "abhisekpaul@gmail.com"
     }
   ]
 }
